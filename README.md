@@ -4,6 +4,7 @@ This repo is a ReBuild of the Wheel. Many people say to me it is useless to rebu
 
 ### The Essence of Neural Network
 
+In the Notebook I will implement the following 
 
 1. **Neurons**: Each neuron in a neural network performs a weighted sum of its inputs, adds a bias term, and then applies an activation function. Mathematically, this can be represented as:
 
